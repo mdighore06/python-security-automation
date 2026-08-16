@@ -1,1 +1,4 @@
-
+| Model | Accuracy | Precision | Recall | F1 Score | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Random Forest** | 0.970 | 0.940 | 0.880 | 0.909 | Supervised; high precision on known threat signatures. |
+| **Isolation Forest** | 0.825 | 0.410 | 0.430 | 0.420 | Unsupervised; isolates structural anomalies without labels. |
