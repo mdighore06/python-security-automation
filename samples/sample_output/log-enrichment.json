@@ -1,1 +1,16 @@
-
+{
+    "185.220.101.5": {
+        "country": "Germany",
+        "isp": "Zwiebelfreunde e.V.",
+        "is_hosting": true,
+        "is_proxy": true,
+        "is_mobile": false
+    },
+    "8.8.8.8": {
+        "country": "United States",
+        "isp": "Google LLC",
+        "is_hosting": false,
+        "is_proxy": false,
+        "is_mobile": false
+    }
+}
